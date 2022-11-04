@@ -8,7 +8,7 @@ About Me:                                                                       
 - 🌱 I was born in Chuong My, Ha Tay
 - 😄 My date of birth is 30/09/2001  
 - 📫 How to reach me: dosoai32@gmail.com
-- ✔Facebook:* [Đỗ Viết Soái] (https://www.facebook.com/soaidoviet)
+- ✔Facebook: [Đỗ Viết Soái](https://www.facebook.com/soaidoviet)
 - ✔*Github :* [DVSoai](https://github.com/DVSoai)
 
 <div width="100%" align="center" style="display: flex">
