@@ -7,5 +7,5 @@ About Me:                                                                       
 - 🔭 I’m currently studying in KMA
 - 🌱 I was born in Chuong My, Ha Tay
 - 😄 My date of birth is 30/09/2001  
-- 📫 How to reach me: dos@gmail.com
+- 📫 How to reach me: dosoai32@gmail.com
 
