@@ -14,7 +14,7 @@
 - 💬 Feel free to ask me anything about Flutter
 - 📫 Reach me at: [dosoai32@gmail.com](mailto:dosoai32@gmail.com)
 - 😄 Check out my work: [Projects](https://github.com/DVSoai)
-- - ✔*Github :* [DVSoai](https://github.com/DVSoai)
+- ✔*Github :* [DVSoai](https://github.com/DVSoai)
 
 ## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/soaidoviet) 
