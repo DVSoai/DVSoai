@@ -1,12 +1,23 @@
- <h1 style="color: #21ff9a;" align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
- <h3 align="center">A Passionate Flutter Developer from Viet Nam</h3>
- ### Hi  👋 I am Đỗ Viết Soái                                                                    
+
+ <h1 align="center">Hello 👋, I'm Do Viet Soai</h1>
+<h3 align="center">A Passionate Flutter Developer from Viet Nam</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DVSoai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+# 💫 About Me:
 - 🔭 I’m currently studying in KMA
 - 🌱 I was born in Chuong My, Ha Tay
 - 😄 My date of birth is 30/09/2001  
-- 📫 How to reach me: dosoai32@gmail.com
-- ✔Facebook: [Đỗ Viết Soái](https://www.facebook.com/soaidoviet)
-- ✔*Github :* [DVSoai](https://github.com/DVSoai)
+- 🔭 Currently working with Flutter
+- 💬 Feel free to ask me anything about Flutter
+- 📫 Reach me at: [dosoai32@gmail.com](mailto:dosoai32@gmail.com)
+- 😄 Check out my work: [Projects](https://github.com/DVSoai)
+- - ✔*Github :* [DVSoai](https://github.com/DVSoai)
+
+## 🌐 Connect with Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/soaidoviet) 
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
@@ -15,8 +26,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div width="100%" align="center" style="display: flex">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=DVSoai&count_private=true&theme=radical&show_icons=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVSoai&layout=compact&title_color=fe428e&text_color=A9FEF7&icon_color=007bff&bg_color=141321">
-</div>
+# 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DVSoai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+ 
+ 
 
