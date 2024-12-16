@@ -28,9 +28,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=DVSoai&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DVSoai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div width="100%">
+  <img width="55.3%" src="https://github-readme-stats.vercel.app/api?username=DVSoai&count_private=true&theme=radical&show_icons=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVSoai&layout=compact&title_color=fe428e&text_color=A9FEF7&icon_color=007bff&bg_color=141321">
+</div>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=DVSoai&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DVSoai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
  
