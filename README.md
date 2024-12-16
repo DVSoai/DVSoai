@@ -14,7 +14,6 @@
 - 🔭 Currently working with Flutter
 - 💬 Feel free to ask me anything about Flutter
 - 📫 Reach me at: [dosoai32@gmail.com](mailto:dosoai32@gmail.com)
-- 😄 Check out my work: [Projects](https://github.com/DVSoai)
 - ✔*Github :* [DVSoai](https://github.com/DVSoai)
 
 ## 🌐 Connect with Me:
@@ -37,6 +36,7 @@
 </div>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=DVSoai&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DVSoai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!-- - 😄 Check out my work: [Projects](https://github.com/DVSoai) -->
 
 
  
