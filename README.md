@@ -31,8 +31,8 @@
 # 📊GitHub Stats :
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div width="100%">
-  <img width="55.3%" src="https://github-readme-stats.vercel.app/api?username=DVSoai&count_private=true&theme=radical&show_icons=true"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVSoai&layout=compact&title_color=fe428e&text_color=A9FEF7&icon_color=007bff&bg_color=141321">
+  <img width="55.3%" src="https://github-readme-stats.vercel.app/api?username=DVSoai&count_private=true&theme=radical&show_icons=true&cache_seconds=60"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVSoai&layout=compact&title_color=fe428e&text_color=A9FEF7&icon_color=007bff&bg_color=141321&cache_seconds=60">
 </div>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=DVSoai&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DVSoai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
