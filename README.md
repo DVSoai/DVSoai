@@ -60,9 +60,13 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DVSoai&theme=radical&show_icons=true&count_private=true&hide=prs&cache_seconds=60" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVSoai&layout=compact&title_color=fe428e&text_color=A9FEF7&icon_color=007bff&bg_color=141321&cache_seconds=60" width="42%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DVSoai&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVSoai&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
